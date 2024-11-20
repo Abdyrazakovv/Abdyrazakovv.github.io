@@ -118,7 +118,7 @@ body {
   position: relative;
   background-color: #465564;
   /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtoiXZoApJeMlv4qakPnWnASeKo5a-Vq1Lw&s'); */
-  background-image: url("./img/ffon.jpg");
+  background-image: url("./img/www.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -380,7 +380,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/ffon.jpg");
+    background-image: url("./img/www.jpg");
     background-position: 55% 50%;
   }
   .warehouse {
@@ -408,7 +408,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/ffon.jpg");
+    background-image: url("./img/www.jpg");
     background-position: 55% 50%;
   }
   
@@ -437,7 +437,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/ffon.jpg");
+    background-image: url("./img/www.jpg");
   }
 
   .separator {
@@ -460,7 +460,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/ffon.jpg");
+    background-image: url("./img/www.jpg");
   }
 
   .header .logo img {
@@ -487,7 +487,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/ffon.jpg");
+    background-image: url("./img/www.jpg");
   }
 
   h2 {
