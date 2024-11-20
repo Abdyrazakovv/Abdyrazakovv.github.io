@@ -118,7 +118,7 @@ body {
   position: relative;
   background-color: #465564;
   /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtoiXZoApJeMlv4qakPnWnASeKo5a-Vq1Lw&s'); */
-  background-image: url("./img/fon.jpg");
+  background-image: url("./img/newfon.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -380,7 +380,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/fon.jpg");
+    background-image: url("./img/newfon.png");
   }
   .warehouse {
     width: 100%;
@@ -407,7 +407,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/fon.jpg");
+    background-image: url("./img/newfon.png");
   }
 
   h2 {
@@ -434,7 +434,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/fon.jpg");
+    background-image: url("./img/newfon.png");
   }
 
   .separator {
@@ -457,7 +457,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/fon.jpg");
+    background-image: url("./img/newfon.png");
   }
 
   .header .logo img {
@@ -484,7 +484,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/fon.jpg");
+    background-image: url("./img/newfon.png");
   }
 
   h2 {
