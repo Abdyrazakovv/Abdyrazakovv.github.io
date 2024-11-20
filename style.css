@@ -118,7 +118,7 @@ body {
   position: relative;
   background-color: #465564;
   /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtoiXZoApJeMlv4qakPnWnASeKo5a-Vq1Lw&s'); */
-  background-image: url("./img/newfon.png");
+  background-image: url("./img/ffon.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -380,7 +380,8 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/newfon.png");
+    background-image: url("./img/ffon.jpg");
+    background-position: 55% 50%;
   }
   .warehouse {
     width: 100%;
@@ -407,8 +408,10 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/newfon.png");
+    background-image: url("./img/ffon.jpg");
+    background-position: 55% 50%;
   }
+  
 
   h2 {
     font-size: 18px;
@@ -434,7 +437,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/newfon.png");
+    background-image: url("./img/ffon.jpg");
   }
 
   .separator {
@@ -457,7 +460,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/newfon.png");
+    background-image: url("./img/ffon.jpg");
   }
 
   .header .logo img {
@@ -484,7 +487,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/newfon.png");
+    background-image: url("./img/ffon.jpg");
   }
 
   h2 {
