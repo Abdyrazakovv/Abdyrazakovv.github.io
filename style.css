@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-  background-color: #ebf6ff;
+  background-color: #ffffff;
   padding: 15px 40px;
   display: flex;
   justify-content: space-between;
@@ -118,7 +118,7 @@ body {
   position: relative;
   background-color: #465564;
   /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtoiXZoApJeMlv4qakPnWnASeKo5a-Vq1Lw&s'); */
-  background-image: url("./img/www.jpg");
+  background-image: url("./img/qwqw.PNG");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -297,7 +297,7 @@ p {
 }
 
 .footer {
-  background-color: #ebf6ff;
+  background-color: #ffff;
   padding: 20px;
   text-align: center;
   position: relative;
@@ -380,7 +380,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/www.jpg");
+    background-image: url("./img/qwqw.PNG");
     background-position: 55% 50%;
   }
   .warehouse {
@@ -408,7 +408,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/www.jpg");
+    background-image: url("./img/qwqw.PNG");
     background-position: 55% 50%;
   }
   
@@ -437,7 +437,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/www.jpg");
+    background-image: url("./img/qwqw.PNG");
   }
 
   .separator {
@@ -460,7 +460,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/www.jpg");
+    background-image: url("./img/qwqw.PNG");
   }
 
   .header .logo img {
@@ -487,7 +487,7 @@ a:hover {
   }
 
   .container-bg {
-    background-image: url("./img/www.jpg");
+    background-image: url("./img/qwqw.PNG");
   }
 
   h2 {
